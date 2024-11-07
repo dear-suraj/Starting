@@ -1,2 +1,2 @@
 # Starting
-This is a Git &amp; GitHub
+This is a Git &amp; GitHub.
