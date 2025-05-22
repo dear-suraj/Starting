@@ -1,4 +1,7 @@
 .heading{
-    text-decoration: underline;
-    color: aqua;
+    border: 2px solid yellow;
+    text-decoration: dotted;
+    color: magenta;
+    text-align: center;
+    
 }
