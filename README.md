@@ -1,7 +1,8 @@
 # Starting
 This is a Git &amp; GitHub.
-# teacher
-suraj chauhan
 
-# student 
-delta
+# Learning 
+Studying  git and github from basic.
+
+# Student 
+Suraj Chauhan
